@@ -1,7 +1,7 @@
-# 🎨 Khushi - Photography Portfolio Website
+Photography Portfolio Website
 
 ## 📌 Description
-**Khushi** is a stylish and visually appealing photography portfolio website. Built using **HTML, CSS, and JavaScript**, it showcases high-resolution photography work with an elegant, responsive design — suitable for personal branding or freelance portfolios.
+ stylish and visually appealing photography portfolio website. Built using **HTML, CSS, and JavaScript**, it showcases high-resolution photography work with an elegant, responsive design — suitable for personal branding or freelance portfolios.
 
 ## 🖼️ Features
 - Full-screen background images
